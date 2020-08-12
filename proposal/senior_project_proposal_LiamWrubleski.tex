@@ -1,0 +1,33 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath}
+\usepackage[margin=1in]{geometry}
+
+\begin{document}
+	\title{Analysis of Optimization Problem Classes and Algorithms}
+	\author{Liam Wrubleski}
+	
+	\maketitle
+	\section{Abstract}
+	This proposal concerns the field and techniques of mathematical optimization. These techniques are widely applicable in many engineering, business, and financial applications. As the problem of mathematical optimization is itself difficult, many other hard problems in mathematics can be shown to be reducible by polynomial algorithms to optimization problems, so the techniques of mathematical optimization for finding near-optimal solutions can be used to find approximate solutions for these other difficult problems. Examining and explaining the techniques of optimization to various classes of problems can be useful in understanding which methods should be used for any given real-world problem, as well as the issues with the various methods of optimization.
+	\section{Project Objectives}
+	\paragraph*{}The field of mathematical optimization is large, and as it tends to be more applied than other mathematics it tends to be poorly understood by many mathematicians. Furthermore, the difference between classes of optimization problems, in addition to the conversion of real-world issues to mathematical problem descriptions is similarly poorly understood by many mathematicians. This project endeavours to do the following:
+	\paragraph*{}$\bullet$ Analyze the theory of linear programming\cite{dantzig1963linear}, a subset of convex optimization. \\
+	Explain the modified simplex algorithm developed by Dantzig\cite{10.1145/87252.88081} and examine the performance of the algorithm, including worst and average case time and space performance. \\
+	Provide an example of a real-world problem that can be readily converted to a linear programming problem, and how to convert similar problems.
+	\paragraph*{}$\bullet$ Explain the theory of mixed integer linear programming (MILP)\cite{Padberg1991}, and the difference between linear programming and MILP.
+	\\Examine the branch-and-cut\cite{Padberg1991} modification to the simplex algorithm that can be used to solve MILP problems. 
+	\\Provide an example of a real-world problem that can be readily converted to a linear programming problem, and how to convert similar problems.
+	\paragraph*{}$\bullet$ Explain the high-level theory of convex optimization, the most notable subclasses of optimization problems (namely semidefinite programming, second order cone programming, geometric programming, and quadratic programming)\cite{bixbybrief}\cite{boyd_vandenberghe_2004}, as well as the real-world problems to which each of these subclasses is most applicable.
+	\paragraph*{}$\bullet$ Examine the modifications made to a stochastic global optimization algorithm by Wang et al.\cite{mps}\cite{montecarlo} 
+	\\Explain some of the challenges faced in real-world, non-convex optimization problems, such as objective functions with no closed form, and which may be expensive to evaluate.
+	\section{Research Plan and Methodology}
+	The paper 'Origins of the Simplex Method' by Dantzig in Systems Optimization Laboratory\cite{10.1145/87252.88081} will be used as a starting point for the research into linear programming, and MILP. Analysis of the real-world performance of these algorithms will be examined using the open source COIN-OR (Computational Infrastructure for Operations Research) libraries.
+	\paragraph*{}A starting point for the theory of convex optimization is the textbook Convex Optimization, by Boyd and Vandenberghe\cite{boyd_vandenberghe_2004}. 
+	\paragraph*{}Global optimization research will be done starting with the papers 'Mode-Pursuing Sampling Method for Global Optimization on
+	Expensive Black-box Functions' by Wang et al.\cite{mps}, and 'A random-discretization based Monte Carlo sampling
+	method and its applications' by Fu and Wang.\cite{montecarlo}
+	\paragraph*{}Time and space complexity of all algorithms will be tested using Matlab and Julia. The linear programming and MILP algorithms will be tested using the COIN-OR libraries for Julia, and all analyzed algorithms will be tested on versions of the problems given above using code written in Matlab. In order to test time and space complexity in the worst case, the algorithms will also be run on their worst case inputs, where known. For example, the linear programming and MILP algorithms will be tested on the Klee-Minty cube, which has been proven to have worst case performance for the simplex algorithm and all variants\cite{KleeMinty}. 
+	
+	\bibliographystyle{ieeetr}
+	\bibliography{senior_project_proposal_LiamWrubleski}
+\end{document}

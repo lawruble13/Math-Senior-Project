@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+
+\bibitem{dantzig1963linear}
+G.~Dantzig, ``Linear programming and extensions, princeton, univ,'' {\em Press,
+  Princeton, NJ}, 1963.
+
+\bibitem{10.1145/87252.88081}
+G.~B. Dantzig, {\em Origins of the Simplex Method}, p.~141–151.
+\newblock New York, NY, USA: Association for Computing Machinery, 1990.
+
+\bibitem{Padberg1991}
+M.~Padberg and G.~Rinaldi, ``A branch-and-cut algorithm for the resolution of
+  large-scale symmetric traveling salesman problems,'' {\em {SIAM} Review},
+  vol.~33, pp.~60--100, Mar. 1991.
+
+\bibitem{bixbybrief}
+R.~E. Bixby, ``A brief history of linear and mixed-integer programming
+  computation,''
+
+\bibitem{boyd_vandenberghe_2004}
+S.~Boyd and L.~Vandenberghe, {\em Convex Optimization}.
+\newblock Cambridge University Press, 2004.
+
+\bibitem{mps}
+L.~Wang, S.~Shan, and G.~G. Wang, ``Mode-pursuing sampling method for global
+  optimization on expensive black-box functions,'' {\em Engineering
+  Optimization}, vol.~36, no.~4, pp.~419--438, 2004.
+
+\bibitem{montecarlo}
+J.~Fu and L.~Wang, ``A random-discretization based monte carlo sampling method
+  and its applications,'' {\em Methodology And Computing In Applied
+  Probability}, vol.~4, pp.~5--25, 01 2002.
+
+\bibitem{KleeMinty}
+V.~Klee and G.~J. Minty, ``How good is the simplex algorithm?,'' in {\em
+  Inequalities, {III} ({P}roc. {T}hird {S}ympos., {U}niv. {C}alifornia, {L}os
+  {A}ngeles, {C}alif., 1969; dedicated to the memory of {T}heodore {S}.
+  {M}otzkin)}, pp.~159--175, 1972.
+
+\end{thebibliography}

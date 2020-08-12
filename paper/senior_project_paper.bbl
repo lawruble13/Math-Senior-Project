@@ -1,0 +1,1229 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{wm-nfl}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9e3b028ab5fe6676668bb388f38a5dea}{%
+           family={{Wolpert}},
+           familyi={W\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=27dff62574d6d47b2419ae464415e631}{%
+           family={{Macready}},
+           familyi={M\bibinitperiod},
+           given={W.\bibnamedelimi G.},
+           giveni={W\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5a91da6001162a1dd1c4014f232ce1d}
+      \strng{fullhash}{e5a91da6001162a1dd1c4014f232ce1d}
+      \strng{bibnamehash}{e5a91da6001162a1dd1c4014f232ce1d}
+      \strng{authorbibnamehash}{e5a91da6001162a1dd1c4014f232ce1d}
+      \strng{authornamehash}{e5a91da6001162a1dd1c4014f232ce1d}
+      \strng{authorfullhash}{e5a91da6001162a1dd1c4014f232ce1d}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Evolutionary Computation}
+      \field{number}{1}
+      \field{title}{No free lunch theorems for optimization}
+      \field{volume}{1}
+      \field{year}{1997}
+      \field{pages}{67\bibrangedash 82}
+      \range{pages}{16}
+    \endentry
+    \entry{wdw-comp-the-nfl}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=b64bc2becad49e7b8be65b1b7ca374f1}{%
+           family={Whitley},
+           familyi={W\bibinitperiod},
+           given={Darrell},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c1cf90141f9de120d3712d7f75c07c14}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dabb5c4e8946e2cf4b7c002904ca32b}
+      \strng{fullhash}{7dabb5c4e8946e2cf4b7c002904ca32b}
+      \strng{bibnamehash}{7dabb5c4e8946e2cf4b7c002904ca32b}
+      \strng{authorbibnamehash}{7dabb5c4e8946e2cf4b7c002904ca32b}
+      \strng{authornamehash}{7dabb5c4e8946e2cf4b7c002904ca32b}
+      \strng{authorfullhash}{7dabb5c4e8946e2cf4b7c002904ca32b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Search Methodologies: Introductory Tutorials in Optimization and Decision Support Techniques}
+      \field{month}{01}
+      \field{title}{Complexity Theory and the No Free Lunch Theorem}
+      \field{year}{1970}
+      \field{pages}{317\bibrangedash 339}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/0-387-28356-0\_11
+      \endverb
+    \endentry
+    \entry{boyd}{book}{}
+      \name{author}{4}{}{%
+        {{hash=fdb760b740da8a080df12615e128118d}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0f664e1f70942aa98c8fb0e77285137d}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={S.P.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4cd2161e2c45c5dbcd6247642d0d2361}{%
+           family={Vandenberghe},
+           familyi={V\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5e39aaaae5e98e5a531c0e3fcb609141}{%
+           family={Press},
+           familyi={P\bibinitperiod},
+           given={Cambridge\bibnamedelima University},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{fd2b81f39f344bd4d7e9a7b0fc734b8b}
+      \strng{fullhash}{0e93af83a8a0f54ace88181d6c9bcb66}
+      \strng{bibnamehash}{0e93af83a8a0f54ace88181d6c9bcb66}
+      \strng{authorbibnamehash}{0e93af83a8a0f54ace88181d6c9bcb66}
+      \strng{authornamehash}{fd2b81f39f344bd4d7e9a7b0fc734b8b}
+      \strng{authorfullhash}{0e93af83a8a0f54ace88181d6c9bcb66}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780521833783}
+      \field{series}{Berichte {ü}ber verteilte messysteme}
+      \field{title}{Convex Optimization}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb https://books.google.ca/books?id=mYm0bLd3fcoC
+      \endverb
+      \verb{url}
+      \verb https://books.google.ca/books?id=mYm0bLd3fcoC
+      \endverb
+    \endentry
+    \entry{dantzig}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=212fe65a17e797b6dbce0c3731498b2c}{%
+           family={Dantzig},
+           familyi={D\bibinitperiod},
+           given={George\bibnamedelima B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{fullhash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{bibnamehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{authorbibnamehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{authornamehash}{212fe65a17e797b6dbce0c3731498b2c}
+      \strng{authorfullhash}{212fe65a17e797b6dbce0c3731498b2c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A History of Scientific Computing}
+      \field{isbn}{0201508141}
+      \field{title}{Origins of the Simplex Method}
+      \field{year}{1990}
+      \field{pages}{141\bibrangedash 151}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/87252.88081
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/87252.88081
+      \endverb
+    \endentry
+    \entry{murty}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cfdd4f5cce3fde38ec5d5d322a85f3f6}{%
+           family={Murty},
+           familyi={M\bibinitperiod},
+           given={Katta},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{cfdd4f5cce3fde38ec5d5d322a85f3f6}
+      \strng{fullhash}{cfdd4f5cce3fde38ec5d5d322a85f3f6}
+      \strng{bibnamehash}{cfdd4f5cce3fde38ec5d5d322a85f3f6}
+      \strng{authorbibnamehash}{cfdd4f5cce3fde38ec5d5d322a85f3f6}
+      \strng{authornamehash}{cfdd4f5cce3fde38ec5d5d322a85f3f6}
+      \strng{authorfullhash}{cfdd4f5cce3fde38ec5d5d322a85f3f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-471-09725-9}
+      \field{title}{Linear programming}
+      \field{year}{1983}
+    \endentry
+    \entry{dantzig-intro}{book}{}
+      \name{author}{2}{}{%
+        {{hash=4bce1f3879abcf7be7f0dc11f79b8d7f}{%
+           family={Dantzig},
+           familyi={D\bibinitperiod},
+           given={G.B.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ab816d569695385b13638573a04cf080}{%
+           family={Thapa},
+           familyi={T\bibinitperiod},
+           given={M.N.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{3de8ae55af652d1b74164ffdf7604862}
+      \strng{fullhash}{3de8ae55af652d1b74164ffdf7604862}
+      \strng{bibnamehash}{3de8ae55af652d1b74164ffdf7604862}
+      \strng{authorbibnamehash}{3de8ae55af652d1b74164ffdf7604862}
+      \strng{authornamehash}{3de8ae55af652d1b74164ffdf7604862}
+      \strng{authorfullhash}{3de8ae55af652d1b74164ffdf7604862}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780387948331}
+      \field{series}{Springer Series in Operations Research and Financial Engineering}
+      \field{title}{Linear Programming 1: Introduction}
+      \field{year}{1997}
+      \verb{urlraw}
+      \verb https://books.google.ca/books?id=I-aluupuDEMC
+      \endverb
+      \verb{url}
+      \verb https://books.google.ca/books?id=I-aluupuDEMC
+      \endverb
+    \endentry
+    \entry{bland}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fe379013651e7552f7245552906bed19}{%
+           family={Bland},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{fe379013651e7552f7245552906bed19}
+      \strng{fullhash}{fe379013651e7552f7245552906bed19}
+      \strng{bibnamehash}{fe379013651e7552f7245552906bed19}
+      \strng{authorbibnamehash}{fe379013651e7552f7245552906bed19}
+      \strng{authornamehash}{fe379013651e7552f7245552906bed19}
+      \strng{authorfullhash}{fe379013651e7552f7245552906bed19}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A simple proof of finiteness is given for the simplex method under an easily described pivoting rule. A second new finite version of the simplex method is also presented.}
+      \field{issn}{0364765X, 15265471}
+      \field{journaltitle}{Mathematics of Operations Research}
+      \field{number}{2}
+      \field{title}{New Finite Pivoting Rules for the Simplex Method}
+      \field{volume}{2}
+      \field{year}{1977}
+      \field{pages}{103\bibrangedash 107}
+      \range{pages}{5}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/3689647
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/3689647
+      \endverb
+    \endentry
+    \entry{schrijver}{book}{}
+      \name{author}{1}{}{%
+        {{hash=da15a4ad2834bbe5dfa4c05f50489172}{%
+           family={Schrijver},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chichester New York}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{da15a4ad2834bbe5dfa4c05f50489172}
+      \strng{fullhash}{da15a4ad2834bbe5dfa4c05f50489172}
+      \strng{bibnamehash}{da15a4ad2834bbe5dfa4c05f50489172}
+      \strng{authorbibnamehash}{da15a4ad2834bbe5dfa4c05f50489172}
+      \strng{authornamehash}{da15a4ad2834bbe5dfa4c05f50489172}
+      \strng{authorfullhash}{da15a4ad2834bbe5dfa4c05f50489172}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-471-98232-6}
+      \field{title}{Theory of linear and integer programming}
+      \field{year}{1998}
+    \endentry
+    \entry{bernd-bland}{book}{}
+      \name{author}{1}{}{%
+        {{hash=58d84b9d049d495fe8e16ed821570031}{%
+           family={Matoušek},
+           familyi={M\bibinitperiod},
+           given={Jiří},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{58d84b9d049d495fe8e16ed821570031}
+      \strng{fullhash}{58d84b9d049d495fe8e16ed821570031}
+      \strng{bibnamehash}{58d84b9d049d495fe8e16ed821570031}
+      \strng{authorbibnamehash}{58d84b9d049d495fe8e16ed821570031}
+      \strng{authornamehash}{58d84b9d049d495fe8e16ed821570031}
+      \strng{authorfullhash}{58d84b9d049d495fe8e16ed821570031}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3-540-30697-8}
+      \field{title}{Understanding and using linear programming}
+      \field{year}{2007}
+    \endentry
+    \entry{devex}{article}{}
+      \name{author}{1}{}{%
+        {{hash=16a674ce9097a491cb54c106ef454719}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Paula\bibnamedelimb M.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{16a674ce9097a491cb54c106ef454719}
+      \strng{fullhash}{16a674ce9097a491cb54c106ef454719}
+      \strng{bibnamehash}{16a674ce9097a491cb54c106ef454719}
+      \strng{authorbibnamehash}{16a674ce9097a491cb54c106ef454719}
+      \strng{authornamehash}{16a674ce9097a491cb54c106ef454719}
+      \strng{authorfullhash}{16a674ce9097a491cb54c106ef454719}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Programming}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Pivot selection methods of the Devex {LP} code}
+      \field{volume}{5}
+      \field{year}{1973}
+      \field{pages}{1\bibrangedash 28}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1007/bf01580108
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/bf01580108
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/bf01580108
+      \endverb
+    \endentry
+    \entry{borgwardt}{book}{}
+      \name{author}{1}{}{%
+        {{hash=45d9b06502c374604916291c5989eac2}{%
+           family={Borgwardt},
+           familyi={B\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag}%
+      }
+      \strng{namehash}{45d9b06502c374604916291c5989eac2}
+      \strng{fullhash}{45d9b06502c374604916291c5989eac2}
+      \strng{bibnamehash}{45d9b06502c374604916291c5989eac2}
+      \strng{authorbibnamehash}{45d9b06502c374604916291c5989eac2}
+      \strng{authornamehash}{45d9b06502c374604916291c5989eac2}
+      \strng{authorfullhash}{45d9b06502c374604916291c5989eac2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3-540-17096-0}
+      \field{title}{The simplex method, a probabilistic analysis}
+      \field{year}{1987}
+    \endentry
+    \entry{klee-minty}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3fc4fb7684111cb9dcd6eb11d4024766}{%
+           family={Klee},
+           familyi={K\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=825471e840e6528200c705f1987f2752}{%
+           family={Minty},
+           familyi={M\bibinitperiod},
+           given={George\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{70179a195b902288f7ebcf355bf13d3b}
+      \strng{fullhash}{70179a195b902288f7ebcf355bf13d3b}
+      \strng{bibnamehash}{70179a195b902288f7ebcf355bf13d3b}
+      \strng{authorbibnamehash}{70179a195b902288f7ebcf355bf13d3b}
+      \strng{authornamehash}{70179a195b902288f7ebcf355bf13d3b}
+      \strng{authorfullhash}{70179a195b902288f7ebcf355bf13d3b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HOW GOOD IS THE SIMPLEX ALGORITHM}
+      \field{year}{1970}
+    \endentry
+    \entry{spielman}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b1c0dd1247f6bbeb095d045cd1ba62ea}{%
+           family={Spielman},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=eab5e9b1d76716e05dcaec0cb60b7d57}{%
+           family={Teng},
+           familyi={T\bibinitperiod},
+           given={Shang{-}Hua},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{07f935e696c5e556ce39208a202e1afe}
+      \strng{fullhash}{07f935e696c5e556ce39208a202e1afe}
+      \strng{bibnamehash}{07f935e696c5e556ce39208a202e1afe}
+      \strng{authorbibnamehash}{07f935e696c5e556ce39208a202e1afe}
+      \strng{authornamehash}{07f935e696c5e556ce39208a202e1afe}
+      \strng{authorfullhash}{07f935e696c5e556ce39208a202e1afe}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CoRR}
+      \field{title}{Smoothed Analysis of Algorithms: Why the Simplex Algorithm Usually Takes Polynomial Time}
+      \field{volume}{cs.DS/0111050}
+      \field{year}{2001}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/cs/0111050
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/cs/0111050
+      \endverb
+    \endentry
+    \entry{morgan}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=f160893582cb637d10c060cd8862fe56}{%
+           family={{Morgan}},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Florida}%
+      }
+      \strng{namehash}{f160893582cb637d10c060cd8862fe56}
+      \strng{fullhash}{f160893582cb637d10c060cd8862fe56}
+      \strng{bibnamehash}{f160893582cb637d10c060cd8862fe56}
+      \strng{authorbibnamehash}{f160893582cb637d10c060cd8862fe56}
+      \strng{authornamehash}{f160893582cb637d10c060cd8862fe56}
+      \strng{authorfullhash}{f160893582cb637d10c060cd8862fe56}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Archived from the original on 2011-08-07}
+      \field{title}{A Comparison of Simplex Method Algorithms}
+      \field{type}{MSc thesis}
+      \field{urlyear}{2011}
+      \field{year}{1997}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://web.archive.org/web/20110807134509/http://www.cise.ufl.edu/research/sparse/Morgan/index.htm
+      \endverb
+      \verb{url}
+      \verb https://web.archive.org/web/20110807134509/http://www.cise.ufl.edu/research/sparse/Morgan/index.htm
+      \endverb
+    \endentry
+    \entry{gurobi-blue-yonder}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{Blue Yonder GmbH Pricing Decisions - Gurobi}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gurobi.com/case_study/blue-yonder-gmbh/
+      \endverb
+      \verb{url}
+      \verb https://www.gurobi.com/case_study/blue-yonder-gmbh/
+      \endverb
+    \endentry
+    \entry{karp}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=5290385c419686f6312edeb3578dc9cf}{%
+           family={Karp},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=61845d8713df720183097da97764018e}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Raymond\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0c49a2a69eb15e588235d478d36d70ea}{%
+           family={Thatcher},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=537f41cb482bc0f5db46135172b12347}{%
+           family={Bohlinger},
+           familyi={B\bibinitperiod},
+           given={Jean\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{fullhash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{bibnamehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{authorbibnamehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{authornamehash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{authorfullhash}{5290385c419686f6312edeb3578dc9cf}
+      \strng{editorbibnamehash}{1077d79ee83f896243c11f49212c756b}
+      \strng{editornamehash}{1077d79ee83f896243c11f49212c756b}
+      \strng{editorfullhash}{1077d79ee83f896243c11f49212c756b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A large class of computational problems involve the determination of properties of graphs, digraphs, integers, arrays of integers, finite families of finite sets, boolean formulas and elements of other countable domains. Through simple encodings from such domains into the set of words over a finite alphabet these problems can be converted into language recognition problems, and we can inquire into their computational complexity. It is reasonable to consider such a problem satisfactorily solved when an algorithm for its solution is found which terminates within a number of steps bounded by a polynomial in the length of the input. We show that a large number of classic unsolved problems of covering, matching, packing, routing, assignment and sequencing are equivalent, in the sense that either each of them possesses a polynomial-bounded algorithm or none of them does.}
+      \field{booktitle}{Complexity of Computer Computations: Proceedings of a symposium on the Complexity of Computer Computations, held March 20--22, 1972, at the IBM Thomas J. Watson Research Center, Yorktown Heights, New York, and sponsored by the Office of Naval Research, Mathematics Program, IBM World Trade Corporation, and the IBM Research Mathematical Sciences Department}
+      \field{isbn}{978-1-4684-2001-2}
+      \field{title}{Reducibility among Combinatorial Problems}
+      \field{year}{1972}
+      \field{pages}{85\bibrangedash 103}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/978-1-4684-2001-2_9
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4684-2001-2_9
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4684-2001-2_9
+      \endverb
+    \endentry
+    \entry{cook}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=609a39905dc0e988c3b294dceecdb1e4}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Stephen\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shaker Heights, Ohio, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{609a39905dc0e988c3b294dceecdb1e4}
+      \strng{fullhash}{609a39905dc0e988c3b294dceecdb1e4}
+      \strng{bibnamehash}{609a39905dc0e988c3b294dceecdb1e4}
+      \strng{authorbibnamehash}{609a39905dc0e988c3b294dceecdb1e4}
+      \strng{authornamehash}{609a39905dc0e988c3b294dceecdb1e4}
+      \strng{authorfullhash}{609a39905dc0e988c3b294dceecdb1e4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Third Annual ACM Symposium on Theory of Computing}
+      \field{isbn}{9781450374644}
+      \field{series}{STOC ’71}
+      \field{title}{The Complexity of Theorem-Proving Procedures}
+      \field{year}{1971}
+      \field{pages}{151\bibrangedash 158}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1145/800157.805047
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/800157.805047
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/800157.805047
+      \endverb
+    \endentry
+    \entry{mitchell-bandc}{article}{}
+      \name{author}{1}{}{%
+        {{hash=94e8ebd60a38c8f7d6e8cb85fefd7d87}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{94e8ebd60a38c8f7d6e8cb85fefd7d87}
+      \strng{fullhash}{94e8ebd60a38c8f7d6e8cb85fefd7d87}
+      \strng{bibnamehash}{94e8ebd60a38c8f7d6e8cb85fefd7d87}
+      \strng{authorbibnamehash}{94e8ebd60a38c8f7d6e8cb85fefd7d87}
+      \strng{authornamehash}{94e8ebd60a38c8f7d6e8cb85fefd7d87}
+      \strng{authorfullhash}{94e8ebd60a38c8f7d6e8cb85fefd7d87}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of Applied Optimization}
+      \field{month}{01}
+      \field{title}{Branch-and-Cut Algorithms for Combinatorial Optimization Problems1}
+      \field{year}{2002}
+    \endentry
+    \entry{land-doig-bnb}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e9422a0cdacb69cd117617c7a8aefbcb}{%
+           family={Land},
+           familyi={L\bibinitperiod},
+           given={A.\bibnamedelimi H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=bd187f4df9791a0b7b3d9416e8d2f609}{%
+           family={Doig},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {[Wiley, Econometric Society]}%
+      }
+      \strng{namehash}{2acd42419e010c16d6f1d816a05f0eaa}
+      \strng{fullhash}{2acd42419e010c16d6f1d816a05f0eaa}
+      \strng{bibnamehash}{2acd42419e010c16d6f1d816a05f0eaa}
+      \strng{authorbibnamehash}{2acd42419e010c16d6f1d816a05f0eaa}
+      \strng{authornamehash}{2acd42419e010c16d6f1d816a05f0eaa}
+      \strng{authorfullhash}{2acd42419e010c16d6f1d816a05f0eaa}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the classical linear programming problem the behaviour of continuous, nonnegative variables subject to a system of linear inequalities is investigated. One possible generalization of this problem is to relax the continuity condition the variables. This paper presents a simple numerical algorithm for the solution of programming problems in which some or all of the variables can take only discrete values. The algorithm requires no special techniques beyond these used in ordinary linear programming, and lends itself to automatic computing. Its use is illustrated on two numerical examples.}
+      \field{issn}{00129682, 14680262}
+      \field{journaltitle}{Econometrica}
+      \field{number}{3}
+      \field{title}{An Automatic Method of Solving Discrete Programming Problems}
+      \field{volume}{28}
+      \field{year}{1960}
+      \field{pages}{497\bibrangedash 520}
+      \range{pages}{24}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1910129
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1910129
+      \endverb
+    \endentry
+    \entry{marchand-cp}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3f650728f36dd3b1c457a5e05e4eb23d}{%
+           family={Marchand},
+           familyi={M\bibinitperiod},
+           given={Hugues},
+           giveni={H\bibinitperiod}}}%
+        {{hash=361973474e5bf7072872c8ab59b4c5bb}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d0a8d11de08414fe1e90fdf5624ec36c}{%
+           family={Weismantel},
+           familyi={W\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c12ba7fcf325a4b4d91604c34e880d0d}{%
+           family={Wolsey},
+           familyi={W\bibinitperiod},
+           given={Laurence},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{767f2c662633d43c90d3e538c5347d83}
+      \strng{fullhash}{d21087995a0ee6da2f2de66abdef4cda}
+      \strng{bibnamehash}{d21087995a0ee6da2f2de66abdef4cda}
+      \strng{authorbibnamehash}{d21087995a0ee6da2f2de66abdef4cda}
+      \strng{authornamehash}{767f2c662633d43c90d3e538c5347d83}
+      \strng{authorfullhash}{d21087995a0ee6da2f2de66abdef4cda}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This survey presents cutting planes that are useful or potentially useful in solving mixed integer programs. Valid inequalities for (i) general integer programs, (ii) problems with local structure such as knapsack constraints, and (iii) problems with 0–1 coefficient matrices, such as set packing, are examined in turn. Finally, the use of valid inequalities for classes of problems with structure, such as network design, is explored.}
+      \field{issn}{0166-218X}
+      \field{journaltitle}{Discrete Applied Mathematics}
+      \field{number}{1}
+      \field{title}{Cutting planes in integer and mixed integer programming}
+      \field{volume}{123}
+      \field{year}{2002}
+      \field{pages}{397\bibrangedash 446}
+      \range{pages}{50}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0166-218X(01)00348-1
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0166218X01003481
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0166218X01003481
+      \endverb
+      \keyw{Mixed integer programming,Cutting planes}
+    \endentry
+    \entry{pataki-comp-bnb}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=1add62209f793772c5e6f237b3be3ce6}{%
+           family={Pataki},
+           familyi={P\bibinitperiod},
+           given={Gabor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2393709e21f91e6047c33dc049d5ddba}{%
+           family={Tural},
+           familyi={T\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d96f6543539188ccbcc01c76a4d4408}
+      \strng{fullhash}{2d96f6543539188ccbcc01c76a4d4408}
+      \strng{bibnamehash}{2d96f6543539188ccbcc01c76a4d4408}
+      \strng{authorbibnamehash}{2d96f6543539188ccbcc01c76a4d4408}
+      \strng{authornamehash}{2d96f6543539188ccbcc01c76a4d4408}
+      \strng{authorfullhash}{2d96f6543539188ccbcc01c76a4d4408}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.OC}
+      \field{eprinttype}{arXiv}
+      \field{title}{Basis Reduction, and the Complexity of Branch-and-Bound}
+      \field{year}{2009}
+      \verb{eprint}
+      \verb 0907.2639
+      \endverb
+    \endentry
+    \entry{gurobi-bbl-cs}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{German First Division Basketball League Scheduling - Gurobi}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gurobi.com/case_study/bbl-english/
+      \endverb
+      \verb{url}
+      \verb https://www.gurobi.com/case_study/bbl-english/
+      \endverb
+    \endentry
+    \entry{gurobi-nfl-cs}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{National Football League Scheduling}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gurobi.com/case_study/nfl-english/
+      \endverb
+      \verb{url}
+      \verb https://www.gurobi.com/case_study/nfl-english/
+      \endverb
+    \endentry
+    \entry{gurobi-ppo-cs}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{title}{Hewlett-Packard Project Portfolio Optimization}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gurobi.com/case_study/ppo-hp-english/
+      \endverb
+      \verb{url}
+      \verb https://www.gurobi.com/case_study/ppo-hp-english/
+      \endverb
+    \endentry
+    \entry{jorge-numopt}{book}{}
+      \name{author}{1}{}{%
+        {{hash=88a342d927bf795b0d92af8a5613da31}{%
+           family={Nocedal},
+           familyi={N\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{88a342d927bf795b0d92af8a5613da31}
+      \strng{fullhash}{88a342d927bf795b0d92af8a5613da31}
+      \strng{bibnamehash}{88a342d927bf795b0d92af8a5613da31}
+      \strng{authorbibnamehash}{88a342d927bf795b0d92af8a5613da31}
+      \strng{authornamehash}{88a342d927bf795b0d92af8a5613da31}
+      \strng{authorfullhash}{88a342d927bf795b0d92af8a5613da31}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-387-30303-1}
+      \field{title}{Numerical optimization}
+      \field{year}{2006}
+    \endentry
+    \entry{kozlov-comp-qp}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f94c7bd2518b3a7da6791bc449e2303f}{%
+           family={M.K.\bibnamedelimi Kozlov},
+           familyi={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={L.G.Khachiyan},
+           giveni={L\bibinitperiod},
+           suffix={S.P.\bibnamedelimi Tarasov},
+           suffixi={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=076d03fc51a33d1f4e61227ef3b65271}{%
+           family={Berry},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{origlanguage}{1}{%
+        {Russian}%
+      }
+      \strng{namehash}{f94c7bd2518b3a7da6791bc449e2303f}
+      \strng{fullhash}{f94c7bd2518b3a7da6791bc449e2303f}
+      \strng{bibnamehash}{f94c7bd2518b3a7da6791bc449e2303f}
+      \strng{authorbibnamehash}{f94c7bd2518b3a7da6791bc449e2303f}
+      \strng{authornamehash}{f94c7bd2518b3a7da6791bc449e2303f}
+      \strng{authorfullhash}{f94c7bd2518b3a7da6791bc449e2303f}
+      \strng{translatorbibnamehash}{076d03fc51a33d1f4e61227ef3b65271}
+      \strng{translatornamehash}{076d03fc51a33d1f4e61227ef3b65271}
+      \strng{translatorfullhash}{076d03fc51a33d1f4e61227ef3b65271}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{issue}{5}
+      \field{journaltitle}{USSR Computational Mathematics and Mathematical Physics}
+      \field{month}{2}
+      \field{title}{[The polynomial solvability of convex quadratic programming]}
+      \field{volume}{20}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \field{pages}{223\bibrangedash 228}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/0041-5553(80)90098-1
+      \endverb
+    \endentry
+    \entry{sahni}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7e90325f25f41d005a9a47e28fd30bf0}{%
+           family={Sahni},
+           familyi={S\bibinitperiod},
+           given={Sartaj},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e90325f25f41d005a9a47e28fd30bf0}
+      \strng{fullhash}{7e90325f25f41d005a9a47e28fd30bf0}
+      \strng{bibnamehash}{7e90325f25f41d005a9a47e28fd30bf0}
+      \strng{authorbibnamehash}{7e90325f25f41d005a9a47e28fd30bf0}
+      \strng{authornamehash}{7e90325f25f41d005a9a47e28fd30bf0}
+      \strng{authorfullhash}{7e90325f25f41d005a9a47e28fd30bf0}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal on Computing}
+      \field{number}{4}
+      \field{title}{Computationally Related Problems}
+      \field{volume}{3}
+      \field{year}{1974}
+      \field{pages}{262\bibrangedash 279}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1137/0203021
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1137/0203021
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1137/0203021
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1137/0203021
+      \endverb
+    \endentry
+    \entry{duffin}{book}{}
+      \name{author}{1}{}{%
+        {{hash=44024a873dc6d738bb068b3775025dcf}{%
+           family={Duffin},
+           familyi={D\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley}%
+      }
+      \strng{namehash}{44024a873dc6d738bb068b3775025dcf}
+      \strng{fullhash}{44024a873dc6d738bb068b3775025dcf}
+      \strng{bibnamehash}{44024a873dc6d738bb068b3775025dcf}
+      \strng{authorbibnamehash}{44024a873dc6d738bb068b3775025dcf}
+      \strng{authornamehash}{44024a873dc6d738bb068b3775025dcf}
+      \strng{authorfullhash}{44024a873dc6d738bb068b3775025dcf}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0-471-22370-0}
+      \field{title}{Geometric programming : theory and application}
+      \field{year}{1967}
+    \endentry
+    \entry{boyd-gp}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ec94d94cc487dd71939a90cbeaaf47d0}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b7e6780aa1c70c79152bcfc0a0a10ebf}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Seung-Jean},
+           giveni={S\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=2608d599a0bc2a784c301329a8da5f7b}{%
+           family={Vandenberghe},
+           familyi={V\bibinitperiod},
+           given={Lieven},
+           giveni={L\bibinitperiod}}}%
+        {{hash=734c5c7ba3540b5d92a375efbd9e1084}{%
+           family={Hassibi},
+           familyi={H\bibinitperiod},
+           given={Arash},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{276900a6361d63ab74fc287230f95dc1}
+      \strng{fullhash}{e67c03bf64b5c3d694d2ef9fe76808a5}
+      \strng{bibnamehash}{e67c03bf64b5c3d694d2ef9fe76808a5}
+      \strng{authorbibnamehash}{e67c03bf64b5c3d694d2ef9fe76808a5}
+      \strng{authornamehash}{276900a6361d63ab74fc287230f95dc1}
+      \strng{authorfullhash}{e67c03bf64b5c3d694d2ef9fe76808a5}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optimization and Engineering}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{A tutorial on geometric programming}
+      \field{volume}{8}
+      \field{year}{2007}
+      \field{pages}{67\bibrangedash 127}
+      \range{pages}{61}
+      \verb{doi}
+      \verb 10.1007/s11081-007-9001-7
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11081-007-9001-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11081-007-9001-7
+      \endverb
+    \endentry
+    \entry{boyd-dgp}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=a01da305d6760b61e7a044009347e400}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Akshay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d50bdcda78beb231a5057a4372dac2fd}{%
+           family={Diamond},
+           familyi={D\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ec94d94cc487dd71939a90cbeaaf47d0}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a41ad7821b76cb83aadade44acd0550a}
+      \strng{fullhash}{a41ad7821b76cb83aadade44acd0550a}
+      \strng{bibnamehash}{a41ad7821b76cb83aadade44acd0550a}
+      \strng{authorbibnamehash}{a41ad7821b76cb83aadade44acd0550a}
+      \strng{authornamehash}{a41ad7821b76cb83aadade44acd0550a}
+      \strng{authorfullhash}{a41ad7821b76cb83aadade44acd0550a}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.OC}
+      \field{eprinttype}{arXiv}
+      \field{title}{Disciplined Geometric Programming}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1812.04074
+      \endverb
+    \endentry
+    \entry{boyd-gp-opamp}{article}{}
+      \name{author}{3}{}{%
+        {{hash=10fc8f1a056fcf9b69094f88f0151a07}{%
+           family={{Hershenson}},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           prefix={d.},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=0f664e1f70942aa98c8fb0e77285137d}{%
+           family={{Boyd}},
+           familyi={B\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=904aab7e7b90de42a52d86afc08128aa}{%
+           family={{Lee}},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1def4cc7572e47d055c297ca0e0bfcd}
+      \strng{fullhash}{c1def4cc7572e47d055c297ca0e0bfcd}
+      \strng{bibnamehash}{c1def4cc7572e47d055c297ca0e0bfcd}
+      \strng{authorbibnamehash}{c1def4cc7572e47d055c297ca0e0bfcd}
+      \strng{authornamehash}{c1def4cc7572e47d055c297ca0e0bfcd}
+      \strng{authorfullhash}{c1def4cc7572e47d055c297ca0e0bfcd}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}
+      \field{number}{1}
+      \field{title}{Optimal design of a CMOS op-amp via geometric programming}
+      \field{volume}{20}
+      \field{year}{2001}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+    \endentry
+    \entry{freund}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=0e8cfaf5d494b5803cfee4f4aa818191}{%
+           family={Freund},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e8cfaf5d494b5803cfee4f4aa818191}
+      \strng{fullhash}{0e8cfaf5d494b5803cfee4f4aa818191}
+      \strng{bibnamehash}{0e8cfaf5d494b5803cfee4f4aa818191}
+      \strng{authorbibnamehash}{0e8cfaf5d494b5803cfee4f4aa818191}
+      \strng{authornamehash}{0e8cfaf5d494b5803cfee4f4aa818191}
+      \strng{authorfullhash}{0e8cfaf5d494b5803cfee4f4aa818191}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Semidefinite Programming ( SDP )}
+      \field{year}{2004}
+    \endentry
+    \entry{wang-mps}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b8323323756d00cdbd7115b8c8b00a26}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Liqun},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0ffb2734f581a574572c43a43cc16a74}{%
+           family={Shan},
+           familyi={S\bibinitperiod},
+           given={Songqing},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bc6ea281127d4975b45c77c681b13bab}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={G.\bibnamedelimi Gary},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{45f2c32270fd39b994e4b50699a749bc}
+      \strng{fullhash}{45f2c32270fd39b994e4b50699a749bc}
+      \strng{bibnamehash}{45f2c32270fd39b994e4b50699a749bc}
+      \strng{authorbibnamehash}{45f2c32270fd39b994e4b50699a749bc}
+      \strng{authornamehash}{45f2c32270fd39b994e4b50699a749bc}
+      \strng{authorfullhash}{45f2c32270fd39b994e4b50699a749bc}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Engineering Optimization}
+      \field{number}{4}
+      \field{title}{Mode-pursuing sampling method for global optimization on expensive black-box functions}
+      \field{volume}{36}
+      \field{year}{2004}
+      \field{pages}{419\bibrangedash 438}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/03052150410001686486
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/03052150410001686486
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/03052150410001686486
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/03052150410001686486
+      \endverb
+    \endentry
+    \entry{fu-sampling}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c257e537d785ef87381dde9a42e165aa}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b8323323756d00cdbd7115b8c8b00a26}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Liqun},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b9a4206c2bdc62fb29c613d2774fde4}
+      \strng{fullhash}{7b9a4206c2bdc62fb29c613d2774fde4}
+      \strng{bibnamehash}{7b9a4206c2bdc62fb29c613d2774fde4}
+      \strng{authorbibnamehash}{7b9a4206c2bdc62fb29c613d2774fde4}
+      \strng{authornamehash}{7b9a4206c2bdc62fb29c613d2774fde4}
+      \strng{authorfullhash}{7b9a4206c2bdc62fb29c613d2774fde4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methodology And Computing In Applied Probability}
+      \field{month}{01}
+      \field{title}{A Random-Discretization Based Monte Carlo Sampling Method and its Applications}
+      \field{volume}{4}
+      \field{year}{2002}
+      \field{pages}{5\bibrangedash 25}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1023/A:1015790929604
+      \endverb
+    \endentry
+    \entry{mps-dv}{article}{}
+      \name{author}{3}{}{%
+        {{hash=71e7db8053e3ecfdd81e2be1122ea8b4}{%
+           family={Sharif},
+           familyi={S\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bc6ea281127d4975b45c77c681b13bab}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={G.\bibnamedelimi Gary},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=85dffd91f771dadd096c0537a2632ffb}{%
+           family={ElMekkawy},
+           familyi={E\bibinitperiod},
+           given={Tarek\bibnamedelima Y.},
+           giveni={T\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{3990883a824c16400db23a98b724cd6e}
+      \strng{fullhash}{3990883a824c16400db23a98b724cd6e}
+      \strng{bibnamehash}{3990883a824c16400db23a98b724cd6e}
+      \strng{authorbibnamehash}{3990883a824c16400db23a98b724cd6e}
+      \strng{authornamehash}{3990883a824c16400db23a98b724cd6e}
+      \strng{authorfullhash}{3990883a824c16400db23a98b724cd6e}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{Based on previously developed Mode Pursuing Sampling (MPS) approach for continuous variables, a variation of MPS for discrete variable global optimization problems on expensive black-box functions is developed in this paper. The proposed method, namely, the discrete variable MPS (D-MPS) method, differs from its continuous variable version not only on sampling in a discrete space, but moreover, on a novel double-sphere strategy. The double-sphere strategy features two hyperspheres whose radii are dynamically enlarged or shrunk in control of, respectively, the degree of “exploration” and “exploitation” in the search of the optimum. Through testing and application to design problems, the proposed D-MPS method demonstrates excellent efficiency and accuracy as compared to the best results in literature on the test problems. The proposed method is believed a promising global optimization strategy for expensive black-box functions with discrete variables. The double-sphere strategy provides an original search control mechanism and has potential to be used in other search algorithms.}}
+      \field{issn}{1050-0472}
+      \field{journaltitle}{Journal of Mechanical Design}
+      \field{month}{01}
+      \field{note}{021402}
+      \field{number}{2}
+      \field{title}{{Mode Pursuing Sampling Method for Discrete Variable Optimization on Expensive Black-Box Functions}}
+      \field{volume}{130}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1115/1.2803251
+      \endverb
+      \verb{eprint}
+      \verb https://asmedigitalcollection.asme.org/mechanicaldesign/article-pdf/130/2/021402/5617466/021402\_1.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1115/1.2803251
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1115/1.2803251
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
